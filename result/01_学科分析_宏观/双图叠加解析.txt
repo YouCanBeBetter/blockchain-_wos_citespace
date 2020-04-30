@@ -1,0 +1,7 @@
+1.在这幅图中， 左侧是施引文献所在的期刊分布，代表了区块链所属的主要学科（如左侧的Mathematics，Systems，mathematical；psychology，enucation，health；）；右侧是对应被引文献所在的期刊分布，代表了区块链领域主要引用了哪些学科（如右侧的Systems,computing,computer；psychology，education，social；economics，economic，political）。
+
+前者可以看做是区块链的领域应用，后者可以看做是区块链的研究基础。（这两段话基本来自总分析说明参考（这个说明参考文档在上一级的文件夹目录中）里的分析思路来源那篇文章）
+
+
+
+2. 可以看看《CiteSpace中文指南》（在文件夹里附了）的第9讲

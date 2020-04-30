@@ -1,0 +1,7 @@
+Scrapy
+BeautifulSoup
+PyQt5
+SQLAlchemy
+bibtexparser
+qt5reactor
+networkX
